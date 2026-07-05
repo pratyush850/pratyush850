@@ -112,15 +112,6 @@ Responsive portfolio showcasing projects and skills.
 
 ---
 
-# 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Data Visualization
-- Business Intelligence
-- Data Warehousing
-
----
 
 # 📈 GitHub Stats
 
