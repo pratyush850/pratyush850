@@ -88,7 +88,7 @@ Face Recognition based Attendance Management System
 
 Responsive portfolio showcasing projects and skills.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** React • Three.Js • Tailwind
 
 ---
 
@@ -112,36 +112,25 @@ Responsive portfolio showcasing projects and skills.
 
 ---
 
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🏅 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)
-
----
-
 # 📈 Visitor Count
 
-![](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![](https://visitor-badge.laobi.icu/badge?page_id=pratyush850.pratyush850)
 
 ---
 
 # 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/pratyush-das-99963b247/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel)](YOUR_PORTFOLIO)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pratyush2213/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:daspratyush957@gmail.com)
+
+---
+
+## 💰 Buy Me a Coffee
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pratyush957)
 
 ---
 
